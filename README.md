@@ -19,7 +19,7 @@ https://platzi.com/clases/1301-expresiones-regulares/11847-que-son-las-expresion
 /*El lenguaje: caracteres, operadores, y construcciones*/
 
 /*Ejemplos*/
-  ^\w{2,2}[\-\. W]{0,1}\d{2,2}[\-\. W]{0,1}\d{2,2}$ =:> BUsca números telefonicos.
+  ^\w{2,2}[\-\. W]{0,1}\d{2,2}[\-\. W]{0,1}\d{2,2}$ =:> Busca números telefonicos.
   ^\[.*\[WARN\].*Error capturado en.*$ Busqueda en logs.
   https?:\/\/[\w\-\.]+\.\w{2,5}\/?.*\S$ Busqueda de URL
   [\w\._]{5,30}\+?[\w]{0,10}@[\w\.\-]{3,}\.\w{2,5}$ Mail
